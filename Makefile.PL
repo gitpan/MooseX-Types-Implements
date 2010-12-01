@@ -16,7 +16,6 @@ my %WriteMakefileArgs = (
     'File::Temp' => '0',
     'Module::Build' => '0.3601',
     'Moose::Role' => '0',
-    'Test::Exception' => '0',
     'Test::More' => '0',
     'Test::NoWarnings' => '0'
   },
@@ -37,7 +36,7 @@ my %WriteMakefileArgs = (
     'MooseX::Types::Parameterizable' => '0',
     'Sub::Exporter' => '0'
   },
-  'VERSION' => '1.103320',
+  'VERSION' => '1.103350',
   'test' => {
     'TESTS' => 't/*.t'
   }

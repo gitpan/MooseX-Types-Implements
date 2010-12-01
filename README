@@ -3,7 +3,7 @@ NAME
     role/interface
 
 VERSION
-    version 1.103320
+    version 1.103350
 
 SYNOPSIS
         package My::Class;

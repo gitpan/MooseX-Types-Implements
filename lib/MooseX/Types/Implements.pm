@@ -5,7 +5,7 @@ BEGIN {
   $MooseX::Types::Implements::AUTHORITY = 'cpan:AJGB';
 }
 BEGIN {
-  $MooseX::Types::Implements::VERSION = '1.103320';
+  $MooseX::Types::Implements::VERSION = '1.103350';
 }
 #ABSTRACT: Require objects to implement a role/interface
 
@@ -72,7 +72,7 @@ MooseX::Types::Implements - Require objects to implement a role/interface
 
 =head1 VERSION
 
-version 1.103320
+version 1.103350
 
 =head1 SYNOPSIS
 

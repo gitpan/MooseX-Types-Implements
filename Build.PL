@@ -11,7 +11,6 @@ my %module_build_args = (
     'File::Temp' => '0',
     'Module::Build' => '0.3601',
     'Moose::Role' => '0',
-    'Test::Exception' => '0',
     'Test::More' => '0',
     'Test::NoWarnings' => '0'
   },
@@ -24,7 +23,7 @@ my %module_build_args = (
     'Alex J. G. Burzyński <ajgb@cpan.org>'
   ],
   'dist_name' => 'MooseX-Types-Implements',
-  'dist_version' => '1.103320',
+  'dist_version' => '1.103350',
   'license' => 'perl',
   'module_name' => 'MooseX::Types::Implements',
   'recommends' => {},
